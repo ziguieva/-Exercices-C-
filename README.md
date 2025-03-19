@@ -33,3 +33,6 @@ b) Ouvrir et compiler les fichiers C++ avec un compilateur comme g++ :  g++ exer
 🤝 Contributions 
 
 Vous souhaitez proposer des améliorations ou ajouter des exercices ? N'hésitez pas à forker le projet et à soumettre une pull request !  📩 Contact Si vous avez des questions ou besoin d’aide, vous pouvez me contacter via GitHub Issues ou par email 📧.
+
+Liens exercices : https://www.coodemaroc.com/2021/05/c.html
+
