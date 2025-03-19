@@ -1,5 +1,6 @@
 Remise à Niveau en C++ 🚀
-Bienvenue dans ce dépôt dédié à la remise à niveau en langage C++. Ce projet contient une série d'exercices progressifs permettant de renforcer vos compétences en programmation C++.
+
+Ce projet contient une série d'exercices progressifs permettant de renforcer vos compétences en programmation C++.
 
 📌 Objectif du projet
 Ce dépôt a pour but de proposer une révision complète et structurée du langage C++, allant des bases fondamentales aux concepts avancés. Il est idéal pour :
@@ -28,15 +29,13 @@ Ce projet contient plusieurs exercices pratiques classés par thématiques :
 ✅ Programmation orientée objet (POO)
 
 📖 Comment utiliser ce dépôt ?
-Cloner le dépôt sur votre machine :
-sh
-Copier
+a) Cloner le dépôt sur votre machine :
 git clone https://github.com/VOTRE_NOM_UTILISATEUR/Exercices_CPP.git
-Ouvrir et compiler les fichiers C++ avec un compilateur comme g++ :
-sh
-Copier
+
+b) Ouvrir et compiler les fichiers C++ avec un compilateur comme g++ :
 g++ exercice1.cpp -o exercice1
 ./exercice1
+
 Expérimenter et modifier les fichiers pour tester différents cas.
 🤝 Contributions
 Vous souhaitez proposer des améliorations ou ajouter des exercices ? N'hésitez pas à forker le projet et à soumettre une pull request !
