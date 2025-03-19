@@ -30,8 +30,7 @@ Ce projet contient plusieurs exercices pratiques classés par thématiques :
 
 📖 Comment utiliser ce dépôt ?
 a) Cloner le dépôt sur votre machine :
-git clone https://github.com/VOTRE_NOM_UTILISATEUR/Exercices_C++.git
-
+git clone https://github.com/ziguieva/-Exercices-C-.git
 b) Ouvrir et compiler les fichiers C++ avec un compilateur comme g++ :
 g++ exercice1.cpp -o exercice1
 ./exercice1
